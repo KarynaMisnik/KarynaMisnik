@@ -3,13 +3,7 @@
   </ul>
 </div>
 
-![line](https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/be39cbf8-ee4b-4803-9152-33fcdfce43d8)
-
-
 <img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/bb53de26-8e56-4a42-a236-8662c58808e0" border="1px solid red"/>
-
-
-![line](https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/be39cbf8-ee4b-4803-9152-33fcdfce43d8)
 
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h1 style="display: inline-block;">Tools and languages that I use:
@@ -30,8 +24,6 @@
   </ul>
 </div>
 
-![line](https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/be39cbf8-ee4b-4803-9152-33fcdfce43d8)
-
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h1 style="display: inline-block;">My stats:
   </h1></summary>
@@ -42,9 +34,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KarynaMisnik&show_icons=true" width="45%"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarynaMisnik&layout=compact" width="34%"/></p>
 
-![line](https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/be39cbf8-ee4b-4803-9152-33fcdfce43d8)
-
 ### My favourite jokes:
 
 <br>
-<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/162ac4d6-7bd1-4ee4-9045-4e7e0add9427" width="500" height="500"/><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/e1b13c5c-5a90-4f70-8a6c-72cd663327c0" width="500" height="500"/>
+<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/162ac4d6-7bd1-4ee4-9045-4e7e0add9427" width="50%" height="500"/><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/e1b13c5c-5a90-4f70-8a6c-72cd663327c0" width="50%" height="500"/>
