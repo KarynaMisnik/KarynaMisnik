@@ -46,6 +46,18 @@
 </div>
 
 <div id="user-content-toc">
+  <ul><summary list-style-type: none;><h1 style="display: inline-block;">My projects:
+    </h1></summary>
+  </ul>
+</div>
+
+| Projects     | Deployed Link  | Repository    | Tech Stack    |  Status    |
+| :---:        |     :---:      |   :---:       |   :---:       |  :---:     |
+| To-Do-List   | <a href="https://master.d6jmquoyox1xw.amplifyapp.com/">view</a>     | <a href="https://github.com/KarynaMisnik/todos">view</a>    | <code>HTML</code> <code>CSS</code> <code>React.TS</code>    | fiinished |
+| Cat Memory Game    | <a href="https://karynamisnik.github.io/karyna/index_game.html">view</a>     | <a href="https://github.com/KarynaMisnik/memory_game_cats">view<a>    | <code>HTML</code> <code>CSS</code> <code>JS</code>    | finished |
+
+
+<div id="user-content-toc">
 <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
   My stats:
 <br><br>
