@@ -1,6 +1,6 @@
 ![11](https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/e40e29d6-9a99-41fd-bba2-fe54273fbb1f)
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="30" height="30" />Hi there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="30" height="30" />
 </h1></summary>
   </ul>
@@ -8,20 +8,20 @@
 
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/796721c1-86a7-4def-8c03-89e1968d92ad"align="left" height="400"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" align="left" />I am Karyna.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" align="left" />I am Karyna
     <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" align="left"/>I enjoy exploring various languages and frameworks like React.js, Laravel, and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, MySQL, and more.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" align="left"/>I enjoy exploring various languages and frameworks like React.js, Laravel, and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, MySQL, and more
     <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field
     <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/> 
-  To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the <a href="https://www.freecodecamp.org/Karyna">freeCodeCamp</a> courses to delve deeper into the realm of software development.
+  To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the <a href="https://www.freecodecamp.org/Karyna">freeCodeCamp</a> courses to delve deeper into the realm of software development
     <br><br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" align="left"/>I also enjoy spending time on <a href="https://codepen.io/karynamisnik">Codepen</a> and <a href="https://www.codewars.com/users/KarynaMisnik">Codewars</a> for some coding fun! 
     <br><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" align="left"/>During my free time, I like to indulge in playing video games, doing puzzles, watching horor movies, hiking and attending metal festivals. 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" align="left"/>During my free time, I like to indulge in playing video games, doing puzzles, watching horror movies, hiking and attending metal festivals
 </summary>
   </ul>
 </div>
@@ -70,8 +70,8 @@
 </p>
 
 <div id="user-content-toc">
-<ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30" height="30" /> My favourite jokes: 
-  </h1></summary>
+<ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30" height="30" /> My favourite jokes: 
+  </h4></summary>
   </ul>
 </div>
 
