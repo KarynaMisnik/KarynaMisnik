@@ -14,8 +14,9 @@
     <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
 <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/> To further expand my expertise, I am currently enrolled in the [Full Stack Open Course](https://github.com/KarynaMisnik/Fullstack-2023) offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
-</h4></summary>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/> 
+  To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
+</summary>
   </ul>
 </div>
 
