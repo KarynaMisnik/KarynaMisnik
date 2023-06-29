@@ -15,7 +15,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/> 
-  To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
+  To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the <a href="https://www.freecodecamp.org/Karyna">freeCodeCamp</a> courses to delve deeper into the realm of software development.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" align="left"/>I also enjoy spending time on <a href="https://codepen.io/karynamisnik">Codepen</a> and <a href="https://www.codewars.com/users/KarynaMisnik">Codewars</a> for some coding fun! 
 </summary>
   </ul>
 </div>
