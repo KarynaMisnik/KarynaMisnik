@@ -1,10 +1,23 @@
 <div id="user-content-toc">
-  <ul><summary list-style-type: none;><h1 style="display: inline-block;">Hi there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="30" height="30" />
+  <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="30" height="30" />Hi there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Light%20Skin%20Tone.png" alt="Sign of the Horns Light Skin Tone" width="30" height="30" />
 </h1></summary>
   </ul>
 </div>
 
-<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/bb53de26-8e56-4a42-a236-8662c58808e0"/>
+<div id="user-content-toc">
+  <ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/796721c1-86a7-4def-8c03-89e1968d92ad"align="left" height="400"/>
+I am Karyna.
+    <br><br>
+I enjoy exploring various languages and frameworks like React.js, Laravel, and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, MySQL, and more.
+    <br><br>
+Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field. 
+    <br><br>
+At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
+<br><br>
+To further expand my expertise, I am currently enrolled in the Full Stack Open Course offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
+</h4></summary>
+  </ul>
+</div>
 
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Mechanic.png" alt="Woman Mechanic" width="30" height="30" />
