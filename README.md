@@ -6,15 +6,15 @@
 
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/796721c1-86a7-4def-8c03-89e1968d92ad"align="left" height="400"/>
-I am Karyna.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" align="left" />I am Karyna.
     <br><br>
-I enjoy exploring various languages and frameworks like React.js, Laravel, and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, MySQL, and more.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" align="left"/>I enjoy exploring various languages and frameworks like React.js, Laravel, and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, MySQL, and more.
     <br><br>
-Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field. 
     <br><br>
-At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills.
 <br><br>
-To further expand my expertise, I am currently enrolled in the Full Stack Open Course offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/>To further expand my expertise, I am currently enrolled in the Full Stack Open Course offered by Helsinki University. Additionally, I am leveraging the freeCodeCamp courses to delve deeper into the realm of software development.
 </h4></summary>
   </ul>
 </div>
