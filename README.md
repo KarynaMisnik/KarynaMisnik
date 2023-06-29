@@ -16,7 +16,10 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" align="left"/> 
   To further expand my expertise, I am currently enrolled in the <a href="https://github.com/KarynaMisnik/Fullstack-2023">Full Stack Open Course</a> offered by Helsinki University. Additionally, I am leveraging the <a href="https://www.freecodecamp.org/Karyna">freeCodeCamp</a> courses to delve deeper into the realm of software development.
+    <br><br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" align="left"/>I also enjoy spending time on <a href="https://codepen.io/karynamisnik">Codepen</a> and <a href="https://www.codewars.com/users/KarynaMisnik">Codewars</a> for some coding fun! 
+    <br><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" align="left"/>During my free time, I like to indulge in playing video games, doing puzzles, watching horor movies, hiking and attending metal festivals. 
 </summary>
   </ul>
 </div>
