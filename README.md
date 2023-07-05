@@ -75,6 +75,13 @@
           <td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
     <td>finished</td>
   </tr>
+                <tr>
+        <td>Honey&Products(e-SPA)</td>
+          <td>--</td>
+          <td><a href="https://github.com/KarynaMisnik/bee_e-spa">view<a></td>
+          <td><code>HTML</code> <code>CSS</code> <code>React.js</code></td>
+    <td>ongoing</td>
+  </tr>
 </table>
 
 <div id="user-content-toc">
