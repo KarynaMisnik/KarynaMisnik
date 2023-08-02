@@ -97,7 +97,7 @@
 <tr>
         <td>Coat of Arms of Finland</td>
           <td><a href="https://www.figma.com/file/kZHAoLtH91CSo38202p4fR/Finnish-coats-of-arms?type=design&node-id=0%3A1&mode=design&t=MjEA8DnclGZJPJA4-1">Figma view</a></td>
-          <td>--</td>
+          <td><a href="https://github.com/KarynaMisnik/coatofarms>view</a></td>
           <td></td>
     <td>ongoing</td>
   </tr>
