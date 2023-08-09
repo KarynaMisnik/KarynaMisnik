@@ -109,12 +109,9 @@
   My stats:
 <br><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KarynaMisnik&show_icons=true" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarynaMisnik&layout=compact" width="34%"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KarynaMisnik"/></a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="KarynaMisnik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KarynaMisnik?cardType=octocat&theme=tokyonight&preferLogin=false" width="50%"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarynaMisnik&layout=compact" width="40%"/>
 </p>
-
-
 
 
 <div id="user-content-toc">
