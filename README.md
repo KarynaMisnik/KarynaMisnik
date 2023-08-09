@@ -111,8 +111,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KarynaMisnik&show_icons=true" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarynaMisnik&layout=compact" width="34%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarynaMisnik"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KarynaMisnik"/></a>
 </p>
+
+
+
 
 <div id="user-content-toc">
 <ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30" height="30" /> My favourite jokes: 
