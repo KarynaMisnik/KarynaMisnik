@@ -52,8 +52,6 @@
    Currently I am learning: 
     <br><br>
      React.JS;
-    
-  Laravel Basics;
   </h1></summary>
   </ul>
 </div>
