@@ -47,14 +47,6 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30" height="30"/>
-   Currently I am learning: 
-    <br><br>
-     React.JS;
-  </h1></summary>
-  </ul>
-</div>
 
 <div id="user-content-toc">
   <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> My projects:
