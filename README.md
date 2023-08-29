@@ -12,7 +12,7 @@
     <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" align="left"/>I enjoy exploring various languages and frameworks like React.js, Laravel and Spring Boot. My projects typically involve working with Java, PHP, JavaScript, TypeScript, SQL and more.
     <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having recently completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field
     <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" align="left"/>At present, I am actively engaged in multiple personal projects aimed at enhancing my Full Stack skills
 <br><br>
@@ -51,7 +51,7 @@
 
 
 <div id="user-content-toc">
-  <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> My projects:
+  <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> I am working on :
     </h1></summary>
   </ul>
 </div>
@@ -62,28 +62,12 @@
         <th>Deployed Link</th>
         <th>Repository</th>
         <th>Tech Stack</th>
-        <th>Status</th>
-  </tr>
-  <tr>
-        <td>To-Do-List </td>
-          <td><a href="https://master.d6jmquoyox1xw.amplifyapp.com/">view</a> </td>
-          <td><a href="https://github.com/KarynaMisnik/todos">view</a> </td>
-          <td><code>HTML</code> <code>CSS</code> <code>React.TS</code> </td>
-    <td>finished</td>
-  </tr>
-    <tr>
-        <td>Cat Memory Game</td>
-          <td><a href="https://karynamisnik.github.io/karyna/index_game.html">view</a></td>
-          <td><a href="https://github.com/KarynaMisnik/memory_game_cats">view<a></td>
-          <td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
-    <td>finished</td>
   </tr>
                 <tr>
         <td>Honey&Products(e-SPA)</td>
           <td>--</td>
           <td><a href="https://github.com/KarynaMisnik/bee_e-spa">view<a></td>
           <td><code>HTML</code> <code>CSS</code> <code>React.JS</code><code>Vite</code><code>MUI</code></td>
-    <td>ongoing</td>
   </tr>
 
 <tr>
@@ -91,7 +75,6 @@
           <td><a href="https://www.figma.com/file/kZHAoLtH91CSo38202p4fR/Finnish-coats-of-arms?type=design&node-id=0%3A1&mode=design&t=MjEA8DnclGZJPJA4-1">Figma view</a></td>
           <td><a href="https://github.com/KarynaMisnik/coatofarms">view</a></td>
           <td></td>
-    <td>ongoing</td>
   </tr>
             
 </table>
