@@ -93,11 +93,3 @@
 
 
 
-<div id="user-content-toc">
-<ul><summary list-style-type: none;><h4 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="30" height="30" /> My favourite jokes: 
-  </h4></summary>
-  </ul>
-</div>
-
-<br>
-<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/162ac4d6-7bd1-4ee4-9045-4e7e0add9427" width="50%" height="500"/><img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/e1b13c5c-5a90-4f70-8a6c-72cd663327c0" width="50%" height="500"/>
