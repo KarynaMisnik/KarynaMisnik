@@ -65,7 +65,7 @@
   </tr>
                 <tr>
         <td>Honey&Products(e-SPA)</td>
-          <td>--</td>
+          <td><a href="https://www.figma.com/file/h950fJ9F4aug2KJjiEYXKK/SPA-honey-products?type=design&node-id=0%3A1&mode=design&t=BdnCJM6JYvp2lHC7-1">Figma view</a></td>
           <td><a href="https://github.com/KarynaMisnik/bee_e-spa">view<a></td>
           <td><code>HTML</code> <code>CSS</code> <code>React.JS</code><code>Vite</code><code>MUI</code></td>
   </tr>
