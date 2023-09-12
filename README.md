@@ -85,10 +85,9 @@
 <br><br>
 <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="KarynaMisnik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KarynaMisnik?cardType=octocat&theme=tokyonight&preferLogin=false" width="50%"/></a>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarynaMisnik&layout=compact" width="40%" />
   
- <img src="https://streak-stats.demolab.com?user=KarynaMisnik&theme=dark&card_width=1000 "/>
-
 </p>
 
 
