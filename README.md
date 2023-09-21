@@ -14,7 +14,6 @@
     <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="25" height="25" align="left"/>Having completed my basic degree in software development, I am driven by my passion for utilizing and disseminating knowledge in the field
     <br><br>
-
 </summary>
   </ul>
 </div>
@@ -76,6 +75,7 @@
 <ul><summary list-style-type: none;><h1 style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" />
   My stats:
 <br><br>
+  
 <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="KarynaMisnik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KarynaMisnik?cardType=octocat&theme=tokyonight&preferLogin=false" width="50%"/></a>
   
