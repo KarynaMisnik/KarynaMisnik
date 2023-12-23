@@ -4,3 +4,5 @@ My Playground (HTML, CSS, JavaScript): https://karynamisnik.github.io/tiny-tech-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarynaMisnik)](https://git.io/streak-stats)
 
+<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" width="500" height="auto" />
+
