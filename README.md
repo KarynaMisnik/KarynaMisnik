@@ -2,5 +2,5 @@
 My Playground (HTML, CSS, JavaScript): https://karynamisnik.github.io/tiny-tech-exhibits/#
 
 
-<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" width="500" height="auto" />
+<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" width="400" height="auto" />
 
