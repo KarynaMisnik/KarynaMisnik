@@ -13,7 +13,7 @@
 
 | <h3>Software</h3>  | <h3>Programming Languages</h3> |  <h3>Frontend Development</h3>  |  <h3>Other</h3> |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-|  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js,php )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git )](https://skillicons.dev)  |
+|  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js,php )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git,linux )](https://skillicons.dev)  |
 
  <h2>I can write <code>Hello world!</code> in:</h2>
 
