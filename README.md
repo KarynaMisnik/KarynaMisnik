@@ -1,5 +1,5 @@
 <img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" alt="me-octocat" width="300" height="auto" align="left" />
- <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi, I am Karyna </h1> 
+ <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi, I am Karyna </h2> 
  <h3>🔭 I’m currently working on: <a href="https://github.com/KarynaMisnik/coat-of-arms">Finnish Emblem project</a></h3>
  <h3>📚 I’m currently learning: JavaScript and React.js</h3>
  <h3>💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a></h3> 
