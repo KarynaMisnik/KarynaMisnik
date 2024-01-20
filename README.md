@@ -2,7 +2,6 @@
 
 <div id="user-content-toc">
 <ul><summary list-style-type: none;><h2  style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>Hello!</h2>  
-<br>
  <h3>🔭 I’m currently working on: <a href="https://github.com/KarynaMisnik/coat-of-arms">Finnish Emblem project</a></h3>
  <h3>📚 I’m currently learning: JavaScript and React.js</h3>
  <h3>💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a></h3> 
