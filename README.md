@@ -5,7 +5,7 @@
  <h3>💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a></h3> 
  <h3>⚡ Fun fact: I like assembling IKEA furniture</h3>  
  <br>
- ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+ ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
  <br>
 
 ## My Stack:  
@@ -15,7 +15,7 @@
 | :-------------: | :-------------: | :-------------: | :-------------: |
 |  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js,php )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git,linux )](https://skillicons.dev)  |
 <br>
- ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
+ ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
  <br>
 
                
