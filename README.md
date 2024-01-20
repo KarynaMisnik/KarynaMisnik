@@ -3,13 +3,11 @@
  <h3>🔭 I’m currently working on: <a href="https://github.com/KarynaMisnik/coat-of-arms">Finnish Emblem project</a></h3>
  <h3>📚 I’m currently learning: JavaScript and React.js</h3>
  <h3>💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a></h3> 
- <h3>⚡ Fun fact: I like assembling IKEA furniture</h3>
- <br>
- <br>
- <br>
- <br>
+ <h3>⚡ Fun fact: I like assembling IKEA furniture</h3>  
 
-<h1>My Stack:</h1>
+ 
+## My Stack: 
+
 
 | <h3>Software</h3>  | <h3>Programming Languages</h3> |  <h3>Frontend Development</h3>  |  <h3>Other</h3> |
 | :-------------: | :-------------: | :-------------: | :-------------: |
