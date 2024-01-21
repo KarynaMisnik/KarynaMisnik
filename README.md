@@ -8,11 +8,10 @@
  <h3>⚡ Fun fact: I like assembling IKEA furniture</h3>  
 </summary></ul>
 </div>
- <br>
- ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
- <br>
 
-## My Stack:  
+ ---  
+ 
+ <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;">My Stack:</h2></summary></ul></div>
 
 
 |  Software  | Programming Languages |  Frontend Development |  Other |
@@ -21,6 +20,7 @@
 <br>
  ༼ つ ◕_◕ ༽つ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
  <br>
+
 
                
 
