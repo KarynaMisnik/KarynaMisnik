@@ -5,7 +5,7 @@
  
 🔭 I’m currently working on: <a href="https://github.com/KarynaMisnik/coat-of-arms">Finnish Emblem project</a>  
  
-📚 I’m currently learning: JavaScript, React.js and CSS animatio  
+📚 I’m currently learning: JavaScript, React.js and CSS animation  
 
 💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a>  
 
