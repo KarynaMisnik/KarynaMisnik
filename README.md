@@ -24,7 +24,7 @@
 |  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git,linux,vscode )](https://skillicons.dev)  |
 <br>
    
-　 ⊂(｡･ω･｡)つ━☆・✩₊˚.⋆☾⋆⁺₊✧⋆｡ °✩ ₊‧⁺˖⋆༺☆˚ ༘`✦ ˑ
+　 ⊂(｡･ω･｡)つ━☆・✩₊˚˖✰.⋆☾⋆⁺₊✧⋆｡ °✩ ₊‧⁺˖⋆༺☆˚ ༘`✦ ˑ
 
 
                
