@@ -8,7 +8,7 @@
 📚 I’m currently learning: JavaScript, React.js, CSS animation and Elements of AI
 
 💪 I’m currently practicing: HTML, CSS & JavaScript in <a href="https://karynamisnik.github.io/tiny-tech-exhibits/#">Playground</a>  
-
+ 
 ⚡ Fun fact: I like assembling IKEA furniture  
 
 </summary></ul>
