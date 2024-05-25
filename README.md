@@ -5,7 +5,7 @@
 
 🦾 I'm currently working on: something interesting 😁 
 
-📚 I’m currently learning: JavaScript, React.js, CSS animation, Elements of AI
+📚 I’m currently learning: JavaScript, CSS animation.
 
 ⚡ Fun fact: I like assembling IKEA furniture  
 
