@@ -9,7 +9,6 @@
 
 ⚡ Fun fact: I like assembling IKEA furniture  
 
-
 </summary></ul>
 </div>
 
@@ -22,7 +21,6 @@
 | :-------------: | :-------------: | :-------------: | :-------------: |
 |  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git,ubuntu,md,vscode )](https://skillicons.dev)  |
 <br>
-
 
 　 ⊂(｡･ω･｡)つ━☆・✩₊˚˖✰.⋆☾⋆⁺₊✧⋆｡ °✩ ₊‧⁺˖⋆༺✩ ₊‧⁺˖⋆༺
   
