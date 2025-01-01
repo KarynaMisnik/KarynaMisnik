@@ -16,10 +16,34 @@
  
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;">My Stack:</h2></summary></ul></div>
 
+<table>
+ <thead>
+  <tr>
+   <th>Category</th>
+   <th>Skills</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Software</td>
+   <td><img src='https://skillicons.dev/icons?i=figma'></td>
+  </tr>
+    <tr>
+   <td>Languages</td>
+   <td><img src='https://skillicons.dev/icons?i=js'></td>
+  </tr>
+      <tr>
+   <td>Fronted</td>
+   <td><img src='https://skillicons.dev/icons?i=html,css,react,materialui,vite'></td>
+  </tr>
+    </tr>
+      <tr>
+   <td>Other</td>
+   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode'></td>
+  </tr>
+ </tbody>
+</table>
 
-|  Software  | Programming Languages |  Frontend Development |  Other |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-|  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  |  [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=html,css,react,materialui,vite )](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=git,ubuntu,md,vscode )](https://skillicons.dev)  |
 <br>
 
 
