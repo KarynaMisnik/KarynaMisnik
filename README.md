@@ -25,7 +25,7 @@
  </thead>
  <tbody>
   <tr>
-   <td>Software</td>
+   <td>Design</td>
    <td><img src='https://skillicons.dev/icons?i=figma'></td>
   </tr>
     <tr>
@@ -39,7 +39,7 @@
     </tr>
       <tr>
    <td>Other</td>
-   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode'></td>
+   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,linux'></td>
   </tr>
  </tbody>
 </table>
