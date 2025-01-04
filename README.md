@@ -13,8 +13,6 @@
 </div>
 
  ---  
-
-
  
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;">My Stack:</h2></summary></ul></div>
 
