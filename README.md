@@ -39,7 +39,7 @@
     </tr>
       <tr>
    <td>Other</td>
-   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,ubuntu'></td>
+   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab'></td>
   </tr>
  </tbody>
 </table>
