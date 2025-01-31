@@ -31,6 +31,7 @@
     <tr>
    <td>Languages</td>
    <td><img src='https://skillicons.dev/icons?i=js'></td>
+     
   </tr>
       <tr>
    <td>Fronted</td>
