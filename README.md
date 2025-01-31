@@ -30,8 +30,7 @@
   </tr>
     <tr>
    <td>Languages</td>
-   <td><img src='https://skillicons.dev/icons?i=js'></td>
-     
+   <td><img src='https://skillicons.dev/icons?i=js,c'></td>    
   </tr>
       <tr>
    <td>Fronted</td>
