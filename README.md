@@ -42,3 +42,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
 
 <div align='center'><img width='800px' height='auto' src='/engineer-joke.gif'></div>
+
+<div display='flex'>Powered by
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) </div>
