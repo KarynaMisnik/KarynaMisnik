@@ -43,6 +43,10 @@
 
 <div align='center'><img width='800px' height='auto' src='/engineer-joke.gif'></div>
 
-<div display='flex'>Powered by
+<div display='flex'><h3>Powered by</h3>
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) </div>
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+
+</div>
