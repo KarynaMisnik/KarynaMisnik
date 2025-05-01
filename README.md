@@ -5,8 +5,6 @@
 
 🦾 I'm currently working on: something interesting 😉 
 
-📚 I’m currently learning: JavaScript, CSS animation, C programming
-
 ⚡ Fun fact: I like assembling IKEA furniture  
 
 </summary></ul>
