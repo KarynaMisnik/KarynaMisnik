@@ -3,8 +3,6 @@
 
 <ul><summary list-style-type: none;><h2  style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>Hello!</h2><br><br>  
 
-🦾 I'm currently working on: something interesting  
-
 ⚡ Fun fact: I like assembling IKEA furniture  
 
 </summary></ul>
