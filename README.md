@@ -10,12 +10,17 @@
 <ul><summary list-style-type: none;><h2  style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>Hello!</h2><br><br>
 </summary></ul>
 </div>
+
 ---
 
-- 🌱 What I’m working on: currently a software engineering student
-- 🔭 Building <a src="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a src="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a>
-- 📚 Deep diving into **Javascript**
-- ⚡ Fun fact: I like assembling IKEA furniture
+<ul>
+<summary list-style-type: none;>
+🌱 What I’m working on: currently a software engineering student
+🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a>
+📚 Deep diving into **Javascript**
+⚡ Fun fact: I like assembling IKEA furniture
+</summary>
+</ul>
 
 ---
 
