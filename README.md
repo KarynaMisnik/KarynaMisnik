@@ -13,13 +13,12 @@
 
 ---
 
-<ul>
-<summary list-style-type: none;>
-🌱 What I’m working on: currently a software engineering student
-🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a>
-📚 Deep diving into **Javascript**
-⚡ Fun fact: I like assembling IKEA furniture
-</summary>
+<ul list-style-type: none;>
+<li>🌱 What I’m working on: currently a software engineering student</li>
+<li>🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a></li>
+<li>📚 Deep diving into Javascript</li>
+<li>⚡ Fun fact: I like assembling IKEA furniture
+</li>
 </ul>
 
 ---
