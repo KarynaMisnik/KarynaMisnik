@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <div align="center">
-<h1>🚀Building cool stuff with code & curiosity</h1>
+<h1 style="text-align: center; font-style: italic;">🚀Building cool stuff with code & curiosity</h1>
 </div>
 
 <div id="user-content-toc">  
@@ -14,7 +14,7 @@
 ---
 
 <ul list-style-type: none;>
-<li>🌱 What I’m working on: currently a software engineering student</li>
+<li>🌱 Currently growing my skills in tech & engineering</li>
 <li>🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a></li>
 <li>📚 Deep diving into Javascript</li>
 <li>⚡ Fun fact: I like assembling IKEA furniture
