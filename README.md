@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <div align="center">
-<h1 font-style: italic>🚀 Building cool stuff with code & curiosity</h1>
+*🚀Building cool stuff with code & curiosity*
 </div>
 
 <div id="user-content-toc">  
