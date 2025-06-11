@@ -9,9 +9,7 @@
 </summary></ul>
 </div>
 
----
-
-<ul list-style-type: none;>
+<ul style="list-style-type: none;">
 <li>🌱 Currently growing my skills in tech & engineering</li>
 <li>🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a></li>
 <li>📚 Deep diving into Javascript</li>
