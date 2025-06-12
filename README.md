@@ -49,7 +49,9 @@
  </tbody>
 </table>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)]
+## 🛠️ My Toolbox:
+
+[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown, arduino)
 
 <br>
 
