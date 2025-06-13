@@ -65,7 +65,7 @@
 
 ### Software & IDE
 
-<img src='https://github-widgetbox.vercel.app/api/linux,vscode'>
+<img src='https://github-widgetbox.vercel.app/api/skills?software=linux,vscode'>
 
 <br>
 
