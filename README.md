@@ -21,37 +21,21 @@
 
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
-#### Languages
+## Languages
 
-<img src='https://skillicons.dev/icons?i=js,c'>
+<img src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
 
-<table>
- <thead>
-  <tr>
-   <th>Category</th>
-   <th>Skills</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Design</td>
-   <td><img src='https://skillicons.dev/icons?i=figma'></td>
-  </tr>
-    <tr>
-   <td>Languages</td>
-   <td><img src='https://skillicons.dev/icons?i=js,c'></td>    
-  </tr>
-      <tr>
-   <td>Fronted</td>
-   <td><img src='https://skillicons.dev/icons?i=html,css,react,materialui,vite'></td>
-  </tr>
-    </tr>
-      <tr>
-   <td>Other</td>
-   <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'></td>
-  </tr>
- </tbody>
-</table>
+## Frameworks & Libraries
+
+<img src='https://skillicons.dev/icons?i=react,materialui,vite'>
+
+## Design
+
+<img src='https://skillicons.dev/icons?i=figma'>
+
+## Others
+
+<img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
 
 <br>
 
