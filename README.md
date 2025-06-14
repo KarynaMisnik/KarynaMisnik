@@ -2,8 +2,6 @@
 
 # _🚀Building cool stuff with code & curiosity_
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
-
 <div id="user-content-toc">  
 <img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" alt="me-octocat" width="250" height="auto" align="left" />
 
@@ -55,20 +53,22 @@
 
 #### Languages
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown)
 
 #### Frameworks
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react)
 
 #### Tools
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git)
 
 ### Software & IDE
 
-<img src='https://github-widgetbox.vercel.app/api/skills?software=linux,vscode'>
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode)
 
 <br>
+
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
 
 ⊂(｡･ω･｡)つ ━✩₊✰.⋆☾⋆✧⋆｡ °✩ ₊‧⁺˖⋆༺✩ ₊⋆☆⋆☾☆༺⋆☆⋆☾☆༺⋆
