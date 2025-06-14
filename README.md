@@ -21,6 +21,10 @@
 
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
+#### Languages
+
+<img src='https://skillicons.dev/icons?i=js,c'>
+
 <table>
  <thead>
   <tr>
@@ -48,24 +52,6 @@
   </tr>
  </tbody>
 </table>
-
-## 🛠️ My Toolbox:
-
-#### Languages
-
-<img src='https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown'>
-
-#### Frameworks
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react)
-
-#### Tools
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git)
-
-### Software & IDE
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode)
 
 <br>
 
