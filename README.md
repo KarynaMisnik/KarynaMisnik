@@ -53,7 +53,7 @@
 
 #### Languages
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown)
+<img src='https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,bash,json,mysql,markdown'>
 
 #### Frameworks
 
