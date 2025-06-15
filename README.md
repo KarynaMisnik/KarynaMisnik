@@ -21,6 +21,15 @@
 
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
+ <div id="user-content-toc">  
+ <h2> Languages</h2>
+
+<img width="250" height="auto" align="left" src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
+
+<h2> Frameworks & Libraries</h2>
+<img src='https://skillicons.dev/icons?i=react,materialui,vite'>
+</div>
+
 ## Languages
 
 <img src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
