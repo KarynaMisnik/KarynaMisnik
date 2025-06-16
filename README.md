@@ -19,6 +19,9 @@
 
 ---
 
+ <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
+
+ <div id="user-content-toc"> <ul><summary list-style-type: none;>
 <table>
   <thead>
     <tr>
@@ -31,30 +34,24 @@
       <td><img  src='https://skillicons.dev/icons?i=js,c,html,css,sql'></td>
       <td><img src='https://skillicons.dev/icons?i=react,materialui,vite'></td>
     </tr>
- 
   </tbody>
 </table>
+</summary></ul></div>
 
- <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
-
-<h2> Frameworks & Libraries</h2>
-<img width="250" height="auto" src='https://skillicons.dev/icons?i=react,materialui,vite'>
-
-## Languages
-
-<img src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
-
-## Frameworks & Libraries
-
-<img src='https://skillicons.dev/icons?i=react,materialui,vite'>
-
-## Design
-
-<img src='https://skillicons.dev/icons?i=figma'>
-
-## Others
-
-<img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
+<table>
+  <thead>
+    <tr>
+      <th>Design</th>
+      <th>Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src='https://skillicons.dev/icons?i=figma'></td>
+      <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
