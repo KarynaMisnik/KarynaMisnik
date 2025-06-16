@@ -19,10 +19,23 @@
 
 ---
 
- <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks & Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img  src='https://skillicons.dev/icons?i=js,c,html,css,sql'></td>
+      <td><img src='https://skillicons.dev/icons?i=react,materialui,vite'></td>
+    </tr>
+ 
+  </tbody>
+</table>
 
-  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"> <h2> Languages</h2><br>
-<img  src='https://skillicons.dev/icons?i=js,c,html,css,sql'></summary></ul></div>
+ <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
 <h2> Frameworks & Libraries</h2>
 <img width="250" height="auto" src='https://skillicons.dev/icons?i=react,materialui,vite'>
