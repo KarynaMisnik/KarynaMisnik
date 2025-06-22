@@ -55,6 +55,10 @@
 
 <br>
 
+![GitHub Profile Summary] (http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={KarynaMisnik}&theme={dracula}&exclude={%20})
+
+<br>
+
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
 
 ⊂(｡･ω･｡)つ ━✩₊✰.⋆☾⋆✧⋆｡ °✩ ₊‧⁺˖⋆༺✩ ₊⋆☆⋆☾☆༺⋆☆⋆☾☆༺⋆
