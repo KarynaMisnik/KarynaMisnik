@@ -21,7 +21,7 @@
 
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
- <div id="user-content-toc"> <ul><summary list-style-type: none;>
+<div align='center'>
 <table>
   <thead>
     <tr>
@@ -36,7 +36,6 @@
     </tr>
   </tbody>
 </table>
-</summary></ul></div>
 
 <table>
   <thead>
@@ -52,6 +51,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <br>
 
