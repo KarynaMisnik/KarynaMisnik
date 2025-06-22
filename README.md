@@ -53,6 +53,7 @@
 </table>
 </div>
 
+<div display='flex'><img src='/octocat.gif' width='50px' height='auto'><img src='/octocat.gif' width='50px' height='auto'></div>
 <br>
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
