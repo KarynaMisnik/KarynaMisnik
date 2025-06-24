@@ -58,6 +58,4 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
 
-<img width='800px' height='auto' src='/engineer-joke.gif'>
-
-⊂(｡･ω･｡)つ ━✩₊✰.⋆☾⋆✧⋆｡ °✩ ₊‧⁺˖⋆༺✩ ₊⋆☆⋆☾☆༺⋆☆⋆☾☆༺⋆
+<div align='center'><img width='800px' height='auto' src='/engineer-joke.gif'></div>
