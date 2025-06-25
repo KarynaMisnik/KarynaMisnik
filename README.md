@@ -22,19 +22,19 @@
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
 <div align='center'>
-<img width='50px' height='auto' src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
+<img src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
 </div>
 
 <div align='center'>
-<img width='50px' height='auto'src='https://skillicons.dev/icons?i=react,materialui,vite'>
+<img src='https://skillicons.dev/icons?i=react,materialui,vite'>
 </div>
 
 <div align='center'>
-<img width='50px' height='auto' src='https://skillicons.dev/icons?i=figma'>
+<img  src='https://skillicons.dev/icons?i=figma'>
 </div>
 
 <div align='center'>
-<img width='50px' height='auto' src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
+<img  src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
 </div>
 </div>
 
