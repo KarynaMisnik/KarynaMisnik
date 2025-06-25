@@ -22,35 +22,20 @@
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
 <div align='center'>
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Frameworks & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img  src='https://skillicons.dev/icons?i=js,c,html,css,sql'></td>
-      <td><img src='https://skillicons.dev/icons?i=react,materialui,vite'></td>
-    </tr>
-  </tbody>
-</table>
+<img width='50px' height='auto' src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
+</div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Design</th>
-      <th>Others</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src='https://skillicons.dev/icons?i=figma'></td>
-      <td><img src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'></td>
-    </tr>
-  </tbody>
-</table>
+<div align='center'>
+<img width='50px' height='auto'src='https://skillicons.dev/icons?i=react,materialui,vite'>
+</div>
+
+<div align='center'>
+<img width='50px' height='auto' src='https://skillicons.dev/icons?i=figma'>
+</div>
+
+<div align='center'>
+<img width='50px' height='auto' src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
+</div>
 </div>
 
 <div align='center' display='flex'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'></div>
