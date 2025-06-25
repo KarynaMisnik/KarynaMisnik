@@ -23,20 +23,16 @@
 
 <div align='center'>
 <img src='https://skillicons.dev/icons?i=js,c,html,css,sql'>
-</div>
 
-<div align='center'>
 <img src='https://skillicons.dev/icons?i=react,materialui,vite'>
-</div>
 
-<div align='center'>
 <img  src='https://skillicons.dev/icons?i=figma'>
-</div>
 
-<div align='center'>
 <img  src='https://skillicons.dev/icons?i=git,ubuntu,md,vscode,matlab,arduino'>
 </div>
 </div>
+
+<br>
 
 <div align='center' display='flex'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'></div>
 <br>
