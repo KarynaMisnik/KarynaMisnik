@@ -1,6 +1,8 @@
 ![Header](./header.png)
 
-# _🚀Building cool stuff with code & curiosity_
+<div align='center'>
+<h2>🚀 Building cool stuff with code & curiosity</h2>
+</div>
 
 <div id="user-content-toc">  
 <img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" alt="me-octocat" width="250" height="auto" align="left" />
