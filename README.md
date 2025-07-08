@@ -39,6 +39,8 @@
 <div align='center' display='flex'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'><img src='/octocat.gif' width='80px' height='auto'></div>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KarynaMisnik&theme=javascript-dark)](https://git.io/streak-stats)
+
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KarynaMisnik&data=repositories,stars,commits&theme=nautilus)
 
 <div align='center'><img width='800px' height='auto' src='/engineer-joke.gif'></div>
