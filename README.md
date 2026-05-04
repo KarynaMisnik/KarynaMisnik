@@ -24,9 +24,9 @@
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
 <div align='center'>
-<img src='https://skillicons.dev/icons?i=js,c,html,css,mysql'>
+<img src='https://skillicons.dev/icons?i=js,c,html,css,mysql,java'>
 
-<img src='https://skillicons.dev/icons?i=react,materialui,vite'>
+<img src='https://skillicons.dev/icons?i=react,materialui,vite,tailwind'>
 
 <img  src='https://skillicons.dev/icons?i=figma'>
 
