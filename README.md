@@ -13,8 +13,8 @@
 
 <ul style="list-style-type: none;">
 <li>🌱 Currently growing my skills in tech & engineering</li>
-<li>🔭 Building <a href="https://github.com/KarynaMisnik/horror-shelf">Horror Shelf</a>, <a href="https://github.com/KarynaMisnik/coat-of-arms">Coat of Arms</a></li>
-<li>📚 Deep diving into Javascript</li>
+<li>🔭 Building <a href="https://github.com/KarynaMisnik/meontrail">MeOnTrail</a></li>
+<li>📚 Experimenting with technologies</li>
 <li>⚡ Fun fact: I like assembling IKEA furniture
 </li>
 </ul>
