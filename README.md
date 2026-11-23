@@ -4,22 +4,22 @@
 <h2>🚀 Building cool stuff with code & curiosity</h2>
 </div>
 
-<div id="user-content-toc">  
-<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" alt="me-octocat" width="250" height="auto" align="left" />
+<p align="center">
+  <a href="https://top-github.eplus.dev/finland">
+    <img src="https://user-badge.eplus.dev/finland/KarynaMisnik.svg" alt="GitHub Finland Ranking" align="center">
+  </a>
+</p>
 
-<ul><summary list-style-type: none;><h2  style="display: inline-block;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>Hello!</h2><br><br>
-</summary></ul>
-</div>
+<img src="https://github.com/KarynaMisnik/KarynaMisnik/assets/96831988/997d3e8b-7ac0-44ee-a88c-bca826ac7a20" alt="me-octocat" width="250" align="left" />
 
-<ul style="list-style-type: none;">
-<li>🌱 Currently growing my skills in tech & engineering</li>
-<li>🔭 Building <a href="https://github.com/KarynaMisnik/meontrail">MeOnTrail</a></li>
-<li>📚 Experimenting with technologies</li>
-<li>⚡ Fun fact: I like assembling IKEA furniture
-</li>
-</ul>
+## 👋 Hello!
 
----
+🌱 Currently growing my skills in tech & engineering  
+🔭 Building [MeOnTrail](https://github.com/KarynaMisnik/meontrail)  
+📚 Experimenting with technologies  
+⚡ Fun fact: I like assembling IKEA furniture
+
+
 
  <div id="user-content-toc"> <ul><summary list-style-type: none;> <h2  style="display: inline-block;"><h2> 🛠️ My Toolbox:</h2></summary></ul></div>
 
